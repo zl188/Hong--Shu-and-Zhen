@@ -79,7 +79,7 @@ jupyter-client==4.1.1
 jupyter-console==4.0.3
 jupyter-core==4.0.6
 llvmlite==0.7.0+3.g1ec568f
-lxml==3.4.4
+lxml==4.6.3
 MarkupSafe==0.23
 matplotlib==1.4.3
 MechanicalSoup==0.3.1
