@@ -111,7 +111,7 @@ ply==3.8
 psutil==3.2.2
 psycopg2==2.6.1
 ptyprocess==0.4
-py==1.4.30
+py==1.10.0
 pyasn1==0.1.7
 pycosat==0.6.1
 pycparser==2.14
