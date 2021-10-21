@@ -6,7 +6,7 @@ appnope==0.1.0
 appscript==1.0.1
 argcomplete==1.0.0
 astropy==1.0.4
-Babel==2.1.1
+Babel==2.9.1
 bcolz==0.0.0
 beautifulsoup4==4.3.2
 bitarray==0.8.1
