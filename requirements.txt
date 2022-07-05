@@ -158,7 +158,7 @@ toolz==0.7.4
 tornado==4.2.1
 traitlets==4.0.0
 translate-toolkit==1.13.0
-ujson==1.33
+ujson==5.4.0
 unicodecsv==0.13.0
 urllib3==1.12
 urlparse2==1.1.1
