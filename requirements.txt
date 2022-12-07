@@ -16,7 +16,7 @@ blz==0.6.2
 bokeh==0.10.0
 boto==2.38.0
 Bottleneck==1.0.0
-certifi==14.5.14
+certifi==2022.12.7
 cffi==1.2.1
 clyent==0.4.0
 colorama==0.3.3
