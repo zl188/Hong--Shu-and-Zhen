@@ -164,7 +164,7 @@ urllib3==1.12
 urlparse2==1.1.1
 urlparse3==1.0.3
 Werkzeug==0.10.4
-wheel==0.26.0
+wheel==0.38.1
 whitenoise==2.0.4
 xlrd==0.9.4
 XlsxWriter==0.7.6
